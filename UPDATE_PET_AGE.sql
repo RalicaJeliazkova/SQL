@@ -1,0 +1,1 @@
+UPDATE FN71896.UPDATE_PET_AGE SET NORTIF = 'FN71896    Pet name = Mason Old age = 2          New salary = 3          ';

@@ -1,0 +1,1 @@
+UPDATE FN71896.UPDATE_CLIENT_NUMBER SET NORTIF = 'FN71896    Client name = Georgi Old number = +359877596321   New number = 0889998763     ';
